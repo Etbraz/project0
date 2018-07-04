@@ -1,0 +1,22 @@
+html, body{
+	height: 100%; width: 100%; margin: 0; 
+}
+#wrapper{
+	height: 100%;
+	width : 100%
+	margin : 0;
+	background-color :#bad0f2;
+	overflow : auto;
+	
+}
+#right{
+	float : left;
+	width : 15%;
+	height : 100%;
+	background-color : beige;
+}
+#left{
+	float: right;
+	width : 15%;
+	height : 100%;
+	background-color : beige;

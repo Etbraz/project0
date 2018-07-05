@@ -1,9 +1,18 @@
 body{
-	background-color: lightblue;
+	margin-left: 500px;
+	background: lightblue url("foto.jpg") no-repeat top left;
 	
 }
 #title{
 	text-align : center;
 	font-family: arial, sans-serif;
 	font-size: 40;
+}
+#center{
+	 border : 1px solid gray;
+	 margin-left: auto;
+	 margin-right: auto;
+	 width : 90%;
+	 text-align:left;
+	 padding: 8px;
 }
